@@ -66,4 +66,34 @@ Adjustable compression quality (default: 85%)
 
 Processes single files or entire directories
 
+### 3️⃣ Transcode FLAC to MP3 (`flac_to_mp3.sh`)
+
+This script converts FLAC audio files to MP3 format using `ffmpeg`.
+
+#### 📥 Installation
+Ensure you have `ffmpeg` installed:
+sh
+brew install ffmpeg  # macOS (Homebrew)
+sudo apt install ffmpeg  # Ubuntu/Debian
+🚀 Usage
+Run the script with a file or directory as an argument:
+
+Convert a single FLAC file to MP3 (default 320kbps):
+sh
+Copy
+Edit
+./flac_to_mp3.sh song.flac
+Convert all FLAC files in a directory at 192kbps:
+
+sh
+Copy
+Edit
+./flac_to_mp3.sh /path/to/folder 192k
+
+⚙️ Features
+Supports batch conversion for directories
+Retains metadata from the original FLAC file
+Allows customizable bitrate (default: 320kbps)
+Outputs MP3 files in the same directory as the source FLAC files
+
 🛠️ More Scripts Coming Soon...
