@@ -28,10 +28,12 @@ Copy
 Edit
 ./remove_gps_exif.sh path/to/folder
 
+
 ⚙️ Features
 Removes GPS metadata (-gps:all=)
 Works on single files or entire directories
 Overwrites original files to prevent data leaks
+
 
 🛠️ More Scripts Coming Soon...
 System Cleanup Scripts 🧹
