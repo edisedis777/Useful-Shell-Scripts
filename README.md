@@ -36,7 +36,3 @@ Overwrites original files to prevent data leaks
 
 
 🛠️ More Scripts Coming Soon...
-System Cleanup Scripts 🧹
-Backup & Restore Utilities 💾
-Network & Security Tools 🔒
-Stay tuned! 🚀
