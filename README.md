@@ -77,7 +77,7 @@ Edit
 brew install ffmpeg  # macOS (Homebrew)
 sudo apt install ffmpeg  # Ubuntu/Debian
 
-####n🚀 Usage
+#### 🚀 Usage
 Run the script with a file or directory as an argument
 
 Convert a single FLAC file to MP3 (default 320kbps):
