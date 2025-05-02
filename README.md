@@ -145,7 +145,12 @@ THRESHOLD=20  # Change to 20 GB
 - Error Handling: Checks for valid disk space data and exits gracefully if retrieval fails.
 - Lightweight: No dependencies beyond standard macOS tools (df, bash).
 
-## Contributions or suggestions are welcome!
+## Contributions 
+- Contributions are welcome! 
+
+## License
+- Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
+
 
 <div align="right">
 
